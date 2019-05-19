@@ -7,4 +7,4 @@
 
 **‫این فایل بر اساس کد نوشته شده برای dotNet موجود در سایت ZarinPal.Com میباشد که برای پوشش تمام قابلیت های پایه و خطا ها توسعه یافته است.**
 
-**استفاده از این کد هیچ محدودیتی در نسخه dotNet framework ندارد و پیشنیاز آن پکیج https://www.nuget.org/packages/Newtonsoft.Json میباشد**
+**‫استفاده از این کد هیچ محدودیتی در نسخه dotNet framework ندارد و پیشنیاز آن پکیج https://www.nuget.org/packages/Newtonsoft.Json میباشد**
